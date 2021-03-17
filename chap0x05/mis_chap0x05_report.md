@@ -22,6 +22,8 @@
 
 - 所以选择版本11
 
+---
+
 ### 安装Android Studio
 
 ![2.1setup](imgs/2.1setup.PNG)
@@ -31,6 +33,8 @@
 ![2.3setup](imgs/2.3setup.PNG)
 
 ![2.4setup](imgs/2.4setup.PNG)
+
+---
 
 ### 下载安装 Android SDK
 
@@ -56,6 +60,8 @@
 
     ![3.7sdk](imgs/3.7sdk.PNG)
 
+---
+
 ### 配置 Android 模拟器运行环境
 
 - 找到`SDK Tools`界面，下载安装 `Intel x86 Emulator Accelerator (HAXM installer)`
@@ -65,6 +71,8 @@
 - 安装完成
 
     ![4.2toolsInstall](imgs/4.2toolsInstall.PNG)
+
+---
 
 ### 配置 Gradle 编译环境
 
@@ -76,6 +84,7 @@
 
     ![5.1gradle](imgs/5.1gradle.PNG)
 
+---
 
 ## 参考资料
 
