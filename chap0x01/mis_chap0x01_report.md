@@ -73,8 +73,10 @@
 
 - 使用`VBoxManage`时报错
     ![2.4OpenWrtInstall](imgs/2.4OpenWrtInstall.PNG)
+
 - 根据官网提供方法进行`dd`
     ![2.5OpenWrtInstall](imgs/2.5OpenWrtInstall.PNG)
+
 - 再次使用`VBoxManage`成功
     ![2.6OpenWrtInstall](imgs/2.6OpenWrtInstall.PNG)
 
