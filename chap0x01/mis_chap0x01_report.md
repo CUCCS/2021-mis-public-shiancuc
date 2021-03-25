@@ -72,16 +72,20 @@
     ```
 
 - 使用`VBoxManage`时报错
+
     ![2.4OpenWrtInstall](imgs/2.4OpenWrtInstall.PNG)
 
 - 根据官网提供方法进行`dd`
+
     ![2.5OpenWrtInstall](imgs/2.5OpenWrtInstall.PNG)
 
 - 再次使用`VBoxManage`成功
+
     ![2.6OpenWrtInstall](imgs/2.6OpenWrtInstall.PNG)
 
 
 - 虚拟机安装成功，将第一块网卡设置为：Intel PRO/1000 MT 桌面（仅主机(Host-Only)网络）；第二块网卡设置为：Intel PRO/1000 MT 桌面（网络地址转换(NAT)）
+
     ![2.7OpenWrtConfiguration](imgs/2.7OpenWrtConfiguration.PNG)
 
 - 启动虚拟机后，修改`/etc/config/network`
